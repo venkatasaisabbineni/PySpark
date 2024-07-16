@@ -5455,3 +5455,20 @@ pyspark-env/lib/python3.11/site-packages/urllib3/py 2.typed
 pyspark-env/lib/python3.11/site-packages/urllib3/response 2.py
 .DS_Store
 .DS_Store
+ansible_test/.vagrant/machines/default/vmware_desktop/creator_uid
+ansible_test/.vagrant/machines/default/vmware_desktop/id
+ansible_test/.vagrant/machines/default/vmware_desktop/index_uuid
+ansible_test/.vagrant/machines/default/vmware_desktop/vagrant_cwd
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware-0.scoreboard
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware-cl1.vmdk
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware.nvram
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware.plist
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware.scoreboard
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware.vmsd
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware.vmx
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware.vmxf
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/source-snapshot
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/source-vmx
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/vmware-0.log
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/vmware.log
+ansible_test/.vagrant/machines/default/vmware_desktop/2e0b7c4d-b8b9-41b3-8d2b-60fa63478fe7/generic-rocky8-vmware.vmx.lck/M45271.lck
