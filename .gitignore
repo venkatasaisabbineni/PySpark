@@ -1,3 +1,5 @@
+s3.py
+sqs.py
 realtimescenarios/
 spark_env/
 pyspark_env/
