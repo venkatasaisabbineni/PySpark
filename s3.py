@@ -1,6 +1,4 @@
 import boto3
-aws_access_key_id1 = "AKIA2D6ELNQSUMTSOMGL"
-aws_secret_access_key1 = "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"
 sqs_client = boto3.client('sqs',region_name = 'us-east-1',aws_access_key_id = aws_access_key_id1,aws_secret_access_key = aws_secret_access_key1)
 queue_url = "https://sqs.us-east-1.amazonaws.com/695659621413/bobbyqueue.fifo"
 response = sqs_client.receive_message(
